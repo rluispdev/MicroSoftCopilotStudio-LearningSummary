@@ -1,6 +1,9 @@
+
+![Template rluipdev](rluispdev.png)
+
 # Resumo de Aprendizado – Microsoft Copilot Studio
 
-Boot Camp Suzano - Python Developer DIO.
+Boot Camp Suzano - Python Developer DIO e Produtivade com Microsoft Copilot Studio.
 
 ## Passos para configurar o Trial do Copilot Studio:
 
