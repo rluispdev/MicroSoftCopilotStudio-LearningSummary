@@ -1,5 +1,7 @@
 # Resumo de Aprendizado – Microsoft Copilot Studio
 
+Boot Camp Suzano - Python Developer DIO.
+
 ## Passos para configurar o Trial do Copilot Studio:
 
 ### Pré-requisitos:
