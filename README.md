@@ -69,7 +69,6 @@ A experiência com o **Microsoft Copilot Studio** demonstrou a versatilidade da 
 
 Renato Romão de Souza | Microsoft MVP, MCT, Especialista em Copilot & IA
 
- 
 ## 👨‍💻 Student
 <p>
     <img 
@@ -80,21 +79,20 @@ Renato Romão de Souza | Microsoft MVP, MCT, Especialista em Copilot & IA
     />
     <p>&nbsp&nbsp&nbsprluispdev<br>
     &nbsp&nbsp&nbsp
-     <a href="https://rluispdev.github.io/portifolio/"> Portifólio</a>
+     <a href="https://rluispdev.github.io/portifolio/" target="_blank"> Portifólio</a>
 &nbsp;|&nbsp;
-    <a href="https://github.com/rluispdev">
+    <a href="https://github.com/rluispdev" target="_blank">
     GitHub</a>&nbsp;|&nbsp;
-     <a href="https://cursos.alura.com.br/user/rluisp"> Alura Profile</a>
+     <a href="https://cursos.alura.com.br/user/rluisp" target="_blank"> Alura Profile</a>
 &nbsp;|&nbsp;
-       <a href="https://www.dio.me/users/rluispdev">DIO</a>
+       <a href="https://www.dio.me/users/rluispdev" target="_blank">DIO</a>
 &nbsp;|&nbsp;      
-    <a href="https://www.linkedin.com/in/rafael-luis-gonzaga-b11634186/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/rafael-luis-gonzaga-b11634186/" target="_blank">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/rluispdevs?igsh=cnoxenpmaHY1amE0&utm_source=qr">
+    <a href="https://www.instagram.com/rluispdevs?igsh=cnoxenpmaHY1amE0&utm_source=qr" target="_blank">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
 
